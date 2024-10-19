@@ -1,7 +1,11 @@
-# Hello Dear Users,
+# Scanio - AI expense tracking
 
+Hello Dear Users,
 
 If you have any questions or need support, feel free to reach out to the developer by clicking the link below. We're here to help and ensure you have the best experience possible.
+
+
+
 <style>
   .support-link {
     display: inline-block;
@@ -16,6 +20,7 @@ If you have any questions or need support, feel free to reach out to the develop
     background: linear-gradient(to bottom right, rgba(26, 27, 35, 1), rgba(18, 19, 24, 1));
   }
 </style>
+
 <a href="mailto:support@salihgun.dev" class="support-link">
    Contact Support
 </a>
